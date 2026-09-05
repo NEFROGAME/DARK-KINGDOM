@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Door
+  - Spike
+  - PlayerHearts
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Door
+  - Camear
+  - Spike
+  - PlayerHearts
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 948660335
+    locked: 0
+  - name: Wall
+    uniqueID: 12560221
+    locked: 0
+  - name: Ground
+    uniqueID: 2281091915
+    locked: 0
+  - name: Enemy
+    uniqueID: 3803380561
+    locked: 0
+  - name: Door
+    uniqueID: 4095270227
+    locked: 0
+  - name: Player
+    uniqueID: 2643666807
+    locked: 0
+  - name: UI
+    uniqueID: 414147103
+    locked: 0
